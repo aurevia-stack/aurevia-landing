@@ -1,31 +1,31 @@
-# Sección 6 · Video Pitch — guion de ~212 palabras (≈ 82–87 s)
+# Sección 6 · Video Pitch — guion de ~209 palabras (≈ 82–87 s)
 
 El video vale el **40% de la evaluación técnica**. Reglas duras de las bases: máximo 90 segundos, **debe aparecer el/la postulante presentando a cámara** (si no apareces, nota mínima en todos los criterios del video), buen audio, **sin música de fondo**. La rúbrica evalúa: (1) presentación del emprendedor, (2) problema como necesidad colectiva + clientes, (3) solución y diferenciadores, (4) claridad y dominio general.
 
-> ⚠️ **La duración es la regla más peligrosa**: pasar de 90 s = nota mínima en todos los criterios. Este guion está dimensionado en 212 palabras para durar 82–87 s a ritmo normal (145–155 palabras/minuto) — no agregar frases. **Verificar en el anexo de las bases si piden formato vertical u horizontal** (las fuentes discrepan; instructivo oficial: recursos.sercotec.cl/manual/sps/video).
+> ⚠️ **La duración es la regla más peligrosa**: pasar de 90 s = nota mínima en todos los criterios. Este guion está dimensionado en 209 palabras para durar 82–87 s a ritmo normal (145–155 palabras/minuto) — no agregar frases. **Verificar en el anexo de las bases si piden formato vertical u horizontal** (las fuentes discrepan; instructivo oficial: recursos.sercotec.cl/manual/sps/video).
 
 ---
 
 ## Guion
 
 **[0–8 s · Presentación — mirando a cámara]**
-> Hola, soy Lucas Orellana, de [comuna], Región del Biobío, y este es AUREVIA Salud.
+> Hola, soy Lucas Orellana, de [comuna], Región del Biobío, y este es ReCupo.
 
 **[8–30 s · El problema — necesidad colectiva, con cifras]**
 > En Chile, más de dos millones de personas están en lista de espera de salud. Mientras esperan, en el sistema público casi una de cada seis horas de especialidad agendadas se pierde porque el paciente no llega. Y aquí en nuestra región, solo el hospital de Los Ángeles pierde veintiún mil horas por inasistencias.
 
 **[30–55 s · La solución — mostrando el celular con la conversación real del asistente]**
-> AUREVIA Salud es un asistente con inteligencia artificial que trabaja por WhatsApp y por teléfono: confirma cada cita, detecta a tiempo cuándo un paciente no podrá asistir y, en ese instante, ofrece esa hora a otra persona que espera en el mismo centro. La hora que se iba a perder... se recupera.
+> ReCupo es un asistente con inteligencia artificial que trabaja por WhatsApp y por teléfono: confirma cada cita, detecta a tiempo cuándo un paciente no podrá asistir y, en ese instante, ofrece esa hora a otra persona que espera en el mismo centro. La hora que se iba a perder... se recupera.
 
 **[55–75 s · Clientes, diferenciador y modelo]**
 > A un centro mediano le devolvemos millones de pesos al mes en horas rescatadas, por una suscripción que cuesta una fracción de eso. Los software de agenda mandan recordatorios; nosotros rellenamos la hora vacía. Parto con los centros médicos y dentales del Gran Concepción y, después, con los CESFAM de la región.
 
 **[75–86 s · Cierre — con empleo, el corazón del "Modo Empleo"]**
-> Con el Capital Semilla voy a formalizar mi empresa, construir la plataforma, salir a vender y contratar a mi primera persona de soporte en la región. Menos horas perdidas, menos espera, más salud. Soy Lucas, y esto es AUREVIA Salud.
+> Con el Capital Semilla voy a formalizar mi empresa, construir la plataforma, salir a vender y contratar a mi primera persona de soporte en la región. Menos horas perdidas, menos espera, más salud. Soy Lucas, y esto es ReCupo.
 
 **Cortes de emergencia** (solo si en los ensayos cronometrados alguna toma pasa de 86 s, en este orden):
 1. "por una suscripción que cuesta una fracción de eso" (−8 palabras)
-2. "Soy Lucas, y esto es AUREVIA Salud." → "Esto es AUREVIA Salud." (−4)
+2. "Soy Lucas, y esto es ReCupo." → "Esto es ReCupo." (−4)
 
 ---
 

@@ -28,7 +28,7 @@ Vale el **60% de la evaluación técnica**: es la sección más importante del f
 
 > A ambos segmentos les resuelvo el mismo problema: las horas médicas agendadas que se pierden porque el paciente no llega, mientras otras personas siguen esperando atención.
 >
-> Al centro privado mediano (segmento 1) le devuelvo dinero que hoy bota: el asistente de inteligencia artificial de AUREVIA Salud confirma cada cita por WhatsApp y por llamada telefónica automática, detecta a tiempo la cita en riesgo y ofrece de inmediato la hora liberada a otro paciente de la lista de rescate del centro — pacientes que aceptan adelantar su hora o que pidieron hora sin encontrar cupo; si el centro no tiene esa lista, el sistema la construye desde la primera semana. Recupera así millones de pesos al mes por una suscripción desde $150.000. A la salud municipal (segmento 2) le entrego horas clínicas recuperadas y listas depuradas, con un panel que respalda su rendición: más pacientes atendidos con la misma dotación.
+> Al centro privado mediano (segmento 1) le devuelvo dinero que hoy bota: el asistente de inteligencia artificial de ReCupo confirma cada cita por WhatsApp y por llamada telefónica automática, detecta a tiempo la cita en riesgo y ofrece de inmediato la hora liberada a otro paciente de la lista de rescate del centro — pacientes que aceptan adelantar su hora o que pidieron hora sin encontrar cupo; si el centro no tiene esa lista, el sistema la construye desde la primera semana. Recupera así millones de pesos al mes por una suscripción desde $150.000. A la salud municipal (segmento 2) le entrego horas clínicas recuperadas y listas depuradas, con un panel que respalda su rendición: más pacientes atendidos con la misma dotación.
 >
 > Tres diferenciadores frente a lo que existe: primero, el rescate automático del cupo liberado — los software de agenda de este segmento (Dentalink, AgendaPro, Reservo) solo envían recordatorios pasivos y nadie rellena la hora vacía; además, la lista de rescate y el historial de asistencia que acumula el sistema son datos del centro que su software de agenda no captura. Segundo, el doble canal WhatsApp más llamada de voz, decisivo con adultos mayores (la Universidad de Chile midió que la llamada telefónica reduce el ausentismo de 20,3% a 12,5%). Tercero, implementación y soporte presencial en el Biobío con reportería de horas recuperadas, algo que los actores enterprise (Cero.ai, orientado a hospitales de alta complejidad) no ofrecen al centro mediano regional.
 
@@ -43,7 +43,7 @@ Vale el **60% de la evaluación técnica**: es la sección más importante del f
 **Versión completa:**
 
 > Cubro las cinco fases del ciclo con canales concretos.
-> Información: prospección directa presencial en centros médicos y dentales del Gran Concepción (visitas con demostración en vivo), sitio web aureviasystem.cl con caso de negocio y calculadora de horas perdidas, LinkedIn e Instagram del proyecto; para el segmento municipal, presentación en los departamentos de salud y en el Centro Regional de Telemedicina y Telesalud del Biobío.
+> Información: prospección directa presencial en centros médicos y dentales del Gran Concepción (visitas con demostración en vivo), sitio web del proyecto con caso de negocio y calculadora de horas perdidas, LinkedIn e Instagram del proyecto; para el segmento municipal, presentación en los departamentos de salud y en el Centro Regional de Telemedicina y Telesalud del Biobío.
 > Valoración: demostración gratuita en la primera reunión con datos de ejemplo y prueba medible de 30 días en el propio centro con reporte de horas recuperadas, para que el cliente compruebe el retorno antes de comprometerse al año.
 > Compra: contrato simple de suscripción mensual firmado con el dueño o administrador (segmento 1) o convenio/orden de compra municipal (segmento 2); pago por transferencia con factura electrónica.
 > Entrega: implementación remota y presencial en menos de 15 días (conexión con la agenda, carga de la lista de rescate, capacitación del personal en una sesión); servicio operando en la nube 24/7.
@@ -51,7 +51,7 @@ Vale el **60% de la evaluación técnica**: es la sección más importante del f
 
 **Versión corta:**
 
-> Información: prospección presencial en centros del Gran Concepción con demostración en vivo; web aureviasystem.cl con calculadora de horas perdidas; LinkedIn e Instagram; para el segmento municipal, presentación directa en los departamentos de salud.
+> Información: prospección presencial en centros del Gran Concepción con demostración en vivo; sitio web del proyecto con calculadora de horas perdidas; LinkedIn e Instagram; para el segmento municipal, presentación directa en los departamentos de salud.
 > Valoración: demostración gratuita en la primera reunión y prueba medible de 30 días con reporte de horas recuperadas.
 > Compra: contrato simple de suscripción con el dueño/administrador, o convenio municipal; factura electrónica.
 > Entrega: implementación en menos de 15 días (agenda, lista de rescate, capacitación en una sesión); servicio en la nube 24/7.
@@ -95,18 +95,18 @@ Vale el **60% de la evaluación técnica**: es la sección más importante del f
 
 **Versión completa:**
 
-> Recursos técnicos: la plataforma AUREVIA Salud — asistente conversacional de inteligencia artificial sobre la API oficial de WhatsApp Business contratada con un partner autorizado de Meta, plataforma de llamadas automatizadas en la nube, motor de reglas de priorización configurable por el centro y panel web de resultados —, infraestructura cloud con respaldo y cifrado, y un notebook de desarrollo con equipamiento de trabajo: el núcleo de la inversión solicitada.
-> Recursos de conocimiento: mi experiencia práctica construyendo la marca AUREVIA (aureviasystem.cl) implementando CRM, automatización de WhatsApp y seguimiento de clientes para negocios locales — la misma tecnología que aquí aplico a salud —, más el levantamiento en terreno del flujo de agendamiento con centros de la zona. ⚠️ *[Si al enviar ya hay visitas hechas y cartas de interés firmadas, agregar: "y cartas de interés de N centros del Gran Concepción". Si no las hay, no mencionarlas.]*
-> Cumplimiento como recurso de confianza: tratamiento de datos mínimos (nombre, teléfono, cita — sin ficha clínica), cifrado, con el centro como responsable del tratamiento y AUREVIA Salud como encargado, conforme a la Ley 19.628 y preparado para la Ley 21.719 de protección de datos, vigente desde diciembre de 2026.
-> Recursos comerciales: la marca AUREVIA con presencia web y su registro en INAPI incluido en este proyecto, y material de venta con el caso de negocio y la calculadora de horas perdidas.
+> Recursos técnicos: la plataforma ReCupo — asistente conversacional de inteligencia artificial sobre la API oficial de WhatsApp Business contratada con un partner autorizado de Meta, plataforma de llamadas automatizadas en la nube, motor de reglas de priorización configurable por el centro y panel web de resultados —, infraestructura cloud con respaldo y cifrado, y un notebook de desarrollo con equipamiento de trabajo: el núcleo de la inversión solicitada.
+> Recursos de conocimiento: mi experiencia práctica implementando CRM, automatización de WhatsApp y seguimiento de clientes para negocios locales — la misma tecnología que aquí aplico a salud —, más el levantamiento en terreno del flujo de agendamiento con centros de la zona. ⚠️ *[Si al enviar ya hay visitas hechas y cartas de interés firmadas, agregar: "y cartas de interés de N centros del Gran Concepción". Si no las hay, no mencionarlas.]*
+> Cumplimiento como recurso de confianza: tratamiento de datos mínimos (nombre, teléfono, cita — sin ficha clínica), cifrado, con el centro como responsable del tratamiento y ReCupo como encargado, conforme a la Ley 19.628 y preparado para la Ley 21.719 de protección de datos, vigente desde diciembre de 2026.
+> Recursos comerciales: la marca del proyecto con su sitio web y su registro en INAPI incluidos en este presupuesto, y material de venta con el caso de negocio y la calculadora de horas perdidas.
 > Recursos humanos: mi dedicación completa el año 1 y la contratación de una persona de soporte y éxito de clientes desde el segundo semestre, financiada con los ingresos recurrentes.
 
 **Versión corta:**
 
-> Técnicos: plataforma AUREVIA Salud (asistente de IA sobre la API oficial de WhatsApp Business con partner de Meta, llamadas automatizadas en la nube, motor de priorización configurable y panel de resultados), infraestructura cloud cifrada y notebook de desarrollo — el núcleo de la inversión solicitada.
-> Conocimiento: mi experiencia real construyendo la marca AUREVIA (CRM y automatización de WhatsApp para negocios locales: la misma tecnología aplicada a salud).
+> Técnicos: plataforma ReCupo (asistente de IA sobre la API oficial de WhatsApp Business con partner de Meta, llamadas automatizadas en la nube, motor de priorización configurable y panel de resultados), infraestructura cloud cifrada y notebook de desarrollo — el núcleo de la inversión solicitada.
+> Conocimiento: mi experiencia real en CRM y automatización de WhatsApp para negocios locales — la misma tecnología aplicada a salud.
 > Cumplimiento: datos mínimos y cifrados, centro como responsable del tratamiento, conforme a la Ley 19.628 y preparado para la Ley 21.719 (vigente desde diciembre 2026).
-> Comerciales: marca AUREVIA con web y registro INAPI en este proyecto; material de venta con caso de negocio.
+> Comerciales: marca y sitio web del proyecto, con registro INAPI en este presupuesto; material de venta con caso de negocio.
 > Humanos: mi dedicación completa el año 1 y una contratación de soporte desde el segundo semestre, financiada con los ingresos.
 
 ## 4.7 Acciones / actividades clave
@@ -144,14 +144,14 @@ Vale el **60% de la evaluación técnica**: es la sección más importante del f
 **Versión completa:**
 
 > Alianzas tecnológicas: contrato con un partner oficial de la API de WhatsApp Business (proveedores autorizados de Meta que operan en Chile) — indispensable para operar el canal con calidad comercial y sin riesgo de bloqueo —, proveedor de plataforma de voz en la nube para las llamadas automáticas y proveedor de infraestructura cloud.
-> Alianzas de acceso al mercado: el Centro Regional de Telemedicina y Telesalud del Biobío, que articula la salud digital en las 33 comunas de la región, como canal natural hacia el segmento municipal; asociaciones gremiales de clínicas dentales y centros médicos de la zona para difusión; y los software de agenda que ya usan los centros (Dentalink, AgendaPro, Reservo), que son complementarios — AUREVIA Salud no reemplaza la agenda: opera con su propio calendario espejo y no depende de las API de terceros, aunque quedan abiertas posibles integraciones futuras.
+> Alianzas de acceso al mercado: el Centro Regional de Telemedicina y Telesalud del Biobío, que articula la salud digital en las 33 comunas de la región, como canal natural hacia el segmento municipal; asociaciones gremiales de clínicas dentales y centros médicos de la zona para difusión; y los software de agenda que ya usan los centros (Dentalink, AgendaPro, Reservo), que son complementarios — ReCupo no reemplaza la agenda: opera con su propio calendario espejo y no depende de las API de terceros, aunque quedan abiertas posibles integraciones futuras.
 > Alianzas de fortalecimiento: el Centro de Negocios Sercotec de Concepción para asesoría de gestión continua y gratuita durante toda la ejecución; incubadoras universitarias locales (IncubaUdeC de la Universidad de Concepción) para mentoría técnica y vinculación con el ecosistema; y los dos centros piloto de lanzamiento del año 1, que a cambio de precio preferente aportan la medición de resultados que sostiene toda la estrategia comercial.
 > En el año 2, convenios con los Servicios de Salud de la región para pilotos de rescate de horas en la red pública.
 
 **Versión corta:**
 
 > Tecnológicas: partner oficial de la API de WhatsApp Business (autorizado por Meta), plataforma de voz en la nube y proveedor cloud.
-> De mercado: Centro Regional de Telemedicina y Telesalud del Biobío (33 comunas — canal al segmento municipal); gremios de clínicas y centros médicos de la zona; los software de agenda existentes son complementarios: AUREVIA Salud opera con calendario espejo propio, sin depender de sus API, con integraciones futuras abiertas.
+> De mercado: Centro Regional de Telemedicina y Telesalud del Biobío (33 comunas — canal al segmento municipal); gremios de clínicas y centros médicos de la zona; los software de agenda existentes son complementarios: ReCupo opera con calendario espejo propio, sin depender de sus API, con integraciones futuras abiertas.
 > De fortalecimiento: Centro de Negocios Sercotec Concepción (asesoría gratuita durante la ejecución), IncubaUdeC (mentoría y ecosistema) y los 2 centros piloto de lanzamiento, que aportan la medición de resultados a cambio de precio preferente.
 > Año 2: convenios con los Servicios de Salud de la región para pilotos en la red pública.
 

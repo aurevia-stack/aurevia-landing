@@ -24,7 +24,7 @@ Presupuesto de **$3.000.000 netos**, dentro de los topes del programa: **Inversi
 | Infraestructura en la nube | Servidores, base de datos y respaldos por 12 meses (plataforma y panel de clientes) | $300.000 |
 | Servicios de inteligencia artificial | Créditos anuales de API de modelos de lenguaje para el asistente conversacional | $240.000 |
 | Plataforma de llamadas automatizadas en la nube | API de voz programable: créditos de uso por 12 meses para las llamadas de confirmación (canal para adultos mayores) | $120.000 |
-| Registro de marca | Registro de "AUREVIA Salud" en INAPI (1 clase, tasas y publicación) | $180.000 |
+| Registro de marca | Registro de "ReCupo" en INAPI (1 clase, tasas y publicación) | $180.000 |
 
 ## B. Acciones de gestión empresarial — $400.000
 

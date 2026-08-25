@@ -1,4 +1,4 @@
-# Postulación Capital Semilla Modo Empleo JÓVENES 2026 — AUREVIA Salud
+# Postulación Capital Semilla Modo Empleo JÓVENES 2026 — ReCupo
 
 **Convocatoria:** Capital Semilla Modo Empleo, JÓVENES (18–29 años) · Región del Biobío
 **Cierre:** martes 08/09/2026, 15:00 h (hora estándar Sercotec — confirmar en bases) · **Enviar entre el 01 y el 02/09, a más tardar el 04/09** (los empates de puntaje se resuelven por orden de envío y la plataforma se satura al final)
@@ -8,7 +8,7 @@
 
 ## El proyecto en una frase
 
-> **AUREVIA Salud**: un asistente con inteligencia artificial que confirma horas médicas por WhatsApp y teléfono, detecta a tiempo las citas que se van a perder y rellena esa hora al instante con otro paciente de la lista de rescate del centro (si el centro no la tiene, el sistema la construye). **La hora que se iba a perder, se recupera.**
+> **ReCupo**: un asistente con inteligencia artificial que confirma horas médicas por WhatsApp y teléfono, detecta a tiempo las citas que se van a perder y rellena esa hora al instante con otro paciente de la lista de rescate del centro (si el centro no la tiene, el sistema la construye). **La hora que se iba a perder, se recupera.**
 
 ## Por qué esta vertical y no otra
 
@@ -30,18 +30,18 @@ Las verticales 1 (prevención) y 3 (seguimiento y medicina de precisión) **se c
 - **Cero.ai** (YC, 2M+ citas/mes) domina los **hospitales de alta complejidad** — venta enterprise, Santiago-céntrica.
 - **Rayen Salud** (dueño del software de los CESFAM) está entrando con su Suite IA, pero **amarrada a sus contratos SIDRA municipales**.
 - **AgendaPro / Reservo / Dentalink** venden agenda con recordatorios **pasivos** al segmento pequeño: en este segmento nadie rescata activamente la hora liberada (quienes sí lo hacen — Cero.ai, CGS — venden enterprise a hospitales).
-- **Nadie atiende al centro médico y dental mediano de regiones (5–30 boxes)** con confirmación activa + rescate de cupos + soporte local. Ese es el punto de entrada de AUREVIA Salud, desde el Gran Concepción.
+- **Nadie atiende al centro médico y dental mediano de regiones (5–30 boxes)** con confirmación activa + rescate de cupos + soporte local. Ese es el punto de entrada de ReCupo, desde el Gran Concepción.
 
 ## Los números que sostienen el negocio
 
-Un centro mediano con 1.500 citas/mes y 12–15% de inasistencia pierde 180–225 horas al mes. Con ticket promedio de $25.000–$35.000, son **entre $4,5 y $7 millones/mes en horas vacías** (ejemplo canónico del dossier — usar siempre estas mismas cifras). AUREVIA Salud recupera del orden de $2–3 millones de eso por una suscripción de $150.000–$350.000/mes: **retorno ~10x para el cliente**. La evidencia chilena respalda la promesa: recordatorios con IA reducen citas perdidas hasta 45% (T13/Minsal), las llamadas telefónicas bajan el ausentismo de 20,3% a 12,5% (CMM U. de Chile — AUREVIA Salud automatiza ese canal), y el CESFAM de Ñuñoa redujo 37% sus inasistencias priorizadas con IA (2026).
+Un centro mediano con 1.500 citas/mes y 12–15% de inasistencia pierde 180–225 horas al mes. Con ticket promedio de $25.000–$35.000, son **entre $4,5 y $7 millones/mes en horas vacías** (ejemplo canónico del dossier — usar siempre estas mismas cifras). ReCupo recupera del orden de $2–3 millones de eso por una suscripción de $150.000–$350.000/mes: **retorno ~10x para el cliente**. La evidencia chilena respalda la promesa: recordatorios con IA reducen citas perdidas hasta 45% (T13/Minsal), las llamadas telefónicas bajan el ausentismo de 20,3% a 12,5% (CMM U. de Chile — ReCupo automatiza ese canal), y el CESFAM de Ñuñoa redujo 37% sus inasistencias priorizadas con IA (2026).
 
 ## Contenido de esta carpeta
 
 | Archivo | Contenido |
 |---|---|
 | [01-guia-de-inscripcion.md](01-guia-de-inscripcion.md) | Cómo inscribir la postulación paso a paso en PostulaFácil, requisitos, fechas, errores que descalifican, checklist final |
-| [02-proyecto-aurevia-salud.md](02-proyecto-aurevia-salud.md) | El proyecto completo: problema con cifras y fuentes, solución, mercado, competencia, modelo de negocio, hoja de ruta de las 3 verticales |
+| [02-proyecto.md](02-proyecto.md) | El proyecto completo: problema con cifras y fuentes, solución, mercado, competencia, modelo de negocio, hoja de ruta de las 3 verticales |
 | [03-respuestas-formulario.md](03-respuestas-formulario.md) | Respuestas listas para las secciones Datos generales, Perfil del emprendedor/a y Perfil del emprendimiento |
 | [04-canvas.md](04-canvas.md) | Los 10 ámbitos del Canvas Sercotec redactados y listos para pegar |
 | [05-estructura-de-costos.md](05-estructura-de-costos.md) | Presupuesto de $3.000.000 línea por línea, dentro de los topes del programa |
@@ -59,4 +59,5 @@ Un centro mediano con 1.500 citas/mes y 12–15% de inasistencia pierde 180–22
 
 - ⚠️ El formulario **no se puede modificar después de enviado**. Revisar todo con la lista de [01-guia-de-inscripcion.md](01-guia-de-inscripcion.md) antes de presionar enviar.
 - ⚠️ Las respuestas del test de preselección (Perfil del emprendedor/a y Perfil del emprendimiento) son **declaraciones personales que Sercotec puede corroborar** (la pregunta 1.1 lo advierte). Los archivos de esta carpeta entregan estrategia y borradores; responder siempre con información verdadera.
-- ⚠️ Este dossier se construyó con las bases del programa hermano (Capital Semilla Emprende 2026) y la prensa oficial del Modo Empleo, porque las bases regionales en PDF se publicaron el mismo 25/08. **Descargar las bases oficiales de la convocatoria** desde [sercotec.cl/programas/capital-semilla-modo-empleo](https://www.sercotec.cl/programas/capital-semilla-modo-empleo/) y verificar: % exacto del aporte propio (~2% ≈ $60.000), formato del video (vertical u horizontal), tope de tamaño del archivo de video y número de cotizaciones por ítem.
+- ⚠️ Este dossier se construyó con las bases del programa hermano (Capital Semilla Emprende 2026) y la prensa oficial del Modo Empleo, porque las bases regionales en PDF se publicaron el mismo 25/08. **Descargar las bases oficiales de la convocatoria** desde [sercotec.cl/programas/capital-semilla-modo-empleo](https://www.sercotec.cl/programas/capital-semilla-modo-empleo/) y verificar: % exacto del aporte propio (2–3% = $60.000–$90.000), formato del video (vertical u horizontal), tope de tamaño del archivo de video y número de cotizaciones por ítem.
+- ℹ️ **"ReCupo" es un nombre propuesto** para el proyecto (rescate de cupos). Si prefieres otro, un buscar-y-reemplazar en esta carpeta lo cambia completo; nada más depende de él.
