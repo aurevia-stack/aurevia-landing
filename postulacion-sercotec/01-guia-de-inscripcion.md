@@ -8,9 +8,9 @@ Cómo dejar la postulación **enviada y bien enviada** en [postulafacil.sercotec
 |---|---|
 | Subsidio | **$3.000.000 no reembolsables** + asesoría y acompañamiento del Agente Operador |
 | Distribución obligatoria | Inversiones: **$2.500.000–$2.800.000** · Gestión empresarial: **$200.000–$500.000** |
-| Aporte propio | % del subsidio definido en bases (referencia: ~2% ≈ **$60.000**, en efectivo al firmar contrato) — **verificar en bases** |
+| Aporte propio | % del subsidio definido en bases, en efectivo al firmar: referencia **2–3% ($60.000–$90.000)** — presupuestar $90.000 de bolsillo hasta confirmar el % exacto en las bases |
 | IVA | **No lo financia el subsidio**: el IVA de todas las compras lo paga el beneficiario |
-| Cierre | **Martes 08/09/2026, 15:00 h** |
+| Cierre | **Martes 08/09/2026, 15:00 h** (hora estándar Sercotec — confirmar en bases; el plan es enviar el 01–04/09 en cualquier caso) |
 | Cupos | 583 a nivel nacional (Biobío: cupo regional no publicado; referencia RM 58, Valparaíso 50) |
 | Regla clave | **Un solo envío por RUT; el formulario no se puede modificar ni reenviar** |
 | Desempate | A igual puntaje de corte, **gana quien envió primero** |
@@ -22,7 +22,8 @@ Cómo dejar la postulación **enviada y bien enviada** en [postulafacil.sercotec
 1. **Descargar las bases oficiales** de la convocatoria "Capital Semilla Modo Empleo, JÓVENES — Región del Biobío" desde la página del programa ([sercotec.cl/programas/capital-semilla-modo-empleo](https://www.sercotec.cl/programas/capital-semilla-modo-empleo/) → convocatoria Biobío) o desde el enlace "Ver bases" del propio formulario. Leer completo el **anexo de criterios de evaluación** (rúbrica del Canvas y del video): la nota se asigna literalmente contra esa pauta.
 2. **Verificar en las bases** estos 4 puntos que varían por convocatoria: % del aporte propio, formato del video (vertical u horizontal), peso máximo del archivo de video, y cuántas cotizaciones exige cada ítem del presupuesto.
 3. **Hacer el curso online gratuito "Modelo de Negocio Canvas"** en [capacitacion.sercotec.cl](https://capacitacion.sercotec.cl) (~6 horas). En las convocatorias Capital Semilla 2026 el certificado digital es **requisito para poder enviar** la postulación; asumir que aquí también aplica. Además mejora las respuestas del test y del Canvas.
-4. Si hay dudas, el **Centro de Negocios Sercotec** de Concepción o Talcahuano asesora **gratis** la formulación (llevar este dossier).
+4. **Completar el Test de Caracterización Emprendedora y actualizar el perfil de usuario** en sercotec.cl — segundo prerrequisito agregado en Capital Semilla 2026 (fuente: El Mostrador, mayo 2026); verificar si el formulario del Modo Empleo lo exige y hacerlo de todos modos: no descubrirlo bloqueando el envío a última hora.
+5. Si hay dudas, el **Centro de Negocios Sercotec** de Concepción o Talcahuano asesora **gratis** la formulación (llevar este dossier).
 
 ### Fase 1 — Completar el formulario (2–3 días, guardando siempre)
 
@@ -43,15 +44,16 @@ Orden recomendado (el botón **GUARDAR** naranjo está abajo a la izquierda — 
 
 ## Checklist final antes de enviar
 
-- [ ] Las 7 secciones aparecen completas (5/5, 20/20, 21/21, 10/10, 5/5, 1/1, 1/1).
+- [ ] Todas las secciones aparecen completas **según el contador de la propia plataforma** (referencia esperada: 5/20/21/10/5/1/1 — mandan los números que muestre el formulario).
 - [ ] El nombre y la descripción del proyecto coinciden con lo que dice el video.
-- [ ] Los 2 segmentos de clientes definidos en Canvas-Clientes son **los mismos** en todas las demás respuestas (consistencia = puntaje).
+- [ ] Los 2 segmentos de clientes definidos en Canvas-Clientes son **los mismos** en todas las demás respuestas (consistencia = puntaje), y el ejemplo económico es siempre el canónico: 1.500 citas/mes, 12–15% de inasistencia, 180–225 horas, $4,5–7 millones.
 - [ ] El presupuesto suma exactamente $3.000.000, con inversiones entre $2,5M y $2,8M y gestión entre $200 y $500 mil, todo en montos **netos** (sin IVA).
 - [ ] Cada línea del presupuesto tiene su cotización adjunta y los montos coinciden.
-- [ ] El video dura ≤ 90 s, se ve y escucha bien, aparezco yo presentando, sin música.
+- [ ] El video dura ≤ 88 s medidos, se ve y escucha bien, aparezco yo presentando, sin música, en el formato (vertical/horizontal) que exija el anexo.
 - [ ] Sin tablas pegadas en campos de texto.
-- [ ] Curso Canvas de Sercotec terminado y certificado emitido.
+- [ ] Curso Canvas de Sercotec terminado (certificado emitido) y Test de Caracterización Emprendedora completado.
 - [ ] Respuestas del test respondidas con información verdadera y demostrable.
+- [ ] Las frases marcadas con ⚠️ en el Canvas (visitas a centros, cartas de interés) ajustadas a lo **efectivamente hecho** al momento de enviar.
 
 ## Errores que descalifican o hunden la nota (lista oficial + asesores)
 

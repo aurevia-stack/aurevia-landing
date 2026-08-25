@@ -9,13 +9,13 @@ Las cotizaciones **respaldan línea por línea** la Estructura de Costos: son re
 | 1 | Notebook de desarrollo (16 GB RAM, SSD 512 GB) | $1.000.000 | PC Factory, SP Digital, Winpy — la cotización en PDF se genera desde el carro de compra |
 | 2 | Teléfono de trabajo (gama media) | $250.000 | PC Factory, Falabella/París empresa, tiendas de operadores |
 | 3 | Monitor 24" + teclado/mouse + audífonos con micrófono | $150.000 | PC Factory, SP Digital (puede ir en la misma cotización del notebook) |
-| 4 | API oficial WhatsApp Business — plan anual | $360.000 | Partners de Meta que operan en Chile y cotizan en pesos/USD: Twilio, 360dialog, Wati, Treble, Chattigo (pedir cotización anual por correo) |
-| 5 | Infraestructura en la nube — 12 meses | $300.000 | Calculadora oficial de precios de AWS/Google Cloud (exportar estimación en PDF) o proveedor local (HostingPlus, EcoHosting — planes cloud/VPS anuales) |
-| 6 | Servicios de IA (créditos API de modelos de lenguaje) — 12 meses | $240.000 | Página oficial de precios del proveedor de API + estimación de consumo (imprimir a PDF la tabla de precios con el cálculo) |
-| 7 | Telefonía programable (llamadas automáticas) — 12 meses | $120.000 | Twilio Voice (calculadora oficial) o proveedor local de telefonía IP (Netvoz, VoIPGroup) |
-| 8 | Registro de marca "AUREVIA Salud" en INAPI | $180.000 | Tarifas oficiales publicadas en inapi.cl (imprimir a PDF) o cotización de un estudio de marcas (ClarkeModet, marcaria.cl) |
+| 4 | Licencia anual de plataforma de mensajería (API oficial de WhatsApp Business) | $360.000 | Partners autorizados de Meta que operan en Chile y cotizan en pesos/USD: Twilio, 360dialog, Wati, Treble, Chattigo (pedir cotización anual por correo, rotulada como licencia/plataforma, no "plan") |
+| 5 | Infraestructura en la nube — 12 meses | $300.000 | Proveedor local con cotización formal (HostingPlus, EcoHosting — planes cloud/VPS anuales); la calculadora de AWS/Google Cloud en PDF solo como respaldo del cálculo |
+| 6 | Servicios de IA (créditos API de modelos de lenguaje) — 12 meses | $240.000 | Cotización de un reseller/integrador local que facture en Chile (los proveedores de API no emiten cotización a persona natural); tabla oficial de precios como anexo del cálculo |
+| 7 | Plataforma de llamadas automatizadas en la nube (API de voz) — 12 meses | $120.000 | Twilio Voice u otro proveedor de voz por API (pedir estimación como plataforma/créditos de uso — **evitar la palabra "plan de telefonía"**: roza la exclusión de cuentas de consumo) |
+| 8 | Registro de marca "AUREVIA Salud" en INAPI | $180.000 | Cotización de un estudio de marcas (ClarkeModet, marcaria.cl) que incluya las tasas INAPI; tarifas oficiales de inapi.cl como anexo |
 | 9 | Marketing de lanzamiento (campañas + material comercial + video demo) | $250.000 | Agencia de marketing digital local de Concepción (2 cotizaciones cortas por correo) o presupuestos oficiales de Meta/Google Ads en PDF |
-| 10 | Formalización (constitución, firma electrónica, patente) | $100.000 | Tarifas publicadas: registroempresasysociedades.cl (gratis la constitución), firma electrónica (E-Sign, Acepta ~$20–30 mil), patente municipal de la comuna — juntar en un PDF explicativo |
+| 10 | Formalización (firma electrónica, trámites, asesoría contable) | $100.000 | Firma electrónica (E-Sign, Acepta ~$20–30 mil), asesoría contable local para constitución e inicio de actividades (cotización por correo) — la constitución en registroempresasysociedades.cl es gratuita; **no incluir patente municipal** (tributo: las bases excluyen impuestos) |
 | 11 | Capacitación en ventas B2B | $50.000 | OTEC/plataformas con factura (Udemy Business no sirve; usar OTEC local o curso con boleta/factura) |
 
 ## Plantilla de correo para pedir cotización

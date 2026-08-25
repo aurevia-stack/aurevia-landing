@@ -1,14 +1,14 @@
 # Postulación Capital Semilla Modo Empleo JÓVENES 2026 — AUREVIA Salud
 
 **Convocatoria:** Capital Semilla Modo Empleo, JÓVENES (18–29 años) · Región del Biobío
-**Cierre:** martes 08/09/2026, 15:00 h · **Enviar idealmente antes del 02/09** (los empates de puntaje se resuelven por orden de envío y la plataforma se satura al final)
+**Cierre:** martes 08/09/2026, 15:00 h (hora estándar Sercotec — confirmar en bases) · **Enviar entre el 01 y el 02/09, a más tardar el 04/09** (los empates de puntaje se resuelven por orden de envío y la plataforma se satura al final)
 **Plataforma:** [postulafacil.sercotec.cl](https://postulafacil.sercotec.cl) · Estado actual: **Admisibilidad aceptada** ✅
 
 ---
 
 ## El proyecto en una frase
 
-> **AUREVIA Salud**: un asistente con inteligencia artificial que confirma horas médicas por WhatsApp y teléfono, detecta a tiempo las citas que se van a perder y rellena esa hora al instante con otro paciente de la lista de espera del centro. **La hora que se iba a perder, se recupera.**
+> **AUREVIA Salud**: un asistente con inteligencia artificial que confirma horas médicas por WhatsApp y teléfono, detecta a tiempo las citas que se van a perder y rellena esa hora al instante con otro paciente de la lista de rescate del centro (si el centro no la tiene, el sistema la construye). **La hora que se iba a perder, se recupera.**
 
 ## Por qué esta vertical y no otra
 
@@ -29,12 +29,12 @@ Las verticales 1 (prevención) y 3 (seguimiento y medicina de precisión) **se c
 
 - **Cero.ai** (YC, 2M+ citas/mes) domina los **hospitales de alta complejidad** — venta enterprise, Santiago-céntrica.
 - **Rayen Salud** (dueño del software de los CESFAM) está entrando con su Suite IA, pero **amarrada a sus contratos SIDRA municipales**.
-- **AgendaPro / Reservo / Dentalink** venden agenda con recordatorios **pasivos** al segmento pequeño: ninguno rescata activamente la hora liberada.
+- **AgendaPro / Reservo / Dentalink** venden agenda con recordatorios **pasivos** al segmento pequeño: en este segmento nadie rescata activamente la hora liberada (quienes sí lo hacen — Cero.ai, CGS — venden enterprise a hospitales).
 - **Nadie atiende al centro médico y dental mediano de regiones (5–30 boxes)** con confirmación activa + rescate de cupos + soporte local. Ese es el punto de entrada de AUREVIA Salud, desde el Gran Concepción.
 
 ## Los números que sostienen el negocio
 
-Un centro mediano con 1.500 citas/mes y 12–15% de inasistencia pierde 180–225 horas al mes. Con ticket promedio de $25.000–$35.000, son **$5–7 millones/mes en horas vacías**. AUREVIA Salud recupera una parte importante de eso por una suscripción de $150.000–$350.000/mes: **el retorno para el cliente es >10x**. La evidencia chilena respalda la promesa: recordatorios con IA reducen citas perdidas hasta 45% (T13/Minsal), llamadas automáticas bajan el ausentismo 7,8 puntos (CMM U. de Chile), y el CESFAM de Ñuñoa redujo 37% sus inasistencias priorizadas con IA (2026).
+Un centro mediano con 1.500 citas/mes y 12–15% de inasistencia pierde 180–225 horas al mes. Con ticket promedio de $25.000–$35.000, son **entre $4,5 y $7 millones/mes en horas vacías** (ejemplo canónico del dossier — usar siempre estas mismas cifras). AUREVIA Salud recupera del orden de $2–3 millones de eso por una suscripción de $150.000–$350.000/mes: **retorno ~10x para el cliente**. La evidencia chilena respalda la promesa: recordatorios con IA reducen citas perdidas hasta 45% (T13/Minsal), las llamadas telefónicas bajan el ausentismo de 20,3% a 12,5% (CMM U. de Chile — AUREVIA Salud automatiza ese canal), y el CESFAM de Ñuñoa redujo 37% sus inasistencias priorizadas con IA (2026).
 
 ## Contenido de esta carpeta
 
